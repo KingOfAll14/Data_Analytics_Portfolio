@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-This is the portfolio of all class assignments I completed in Data Analytics. 
+This portfolio contains the entirety of what I learned during my Data Analytics Course. The content herein contain my progress learning Python, data programming and analysis, data manipulation, regrssions, clustering, and segmentation.
 
 ## My Résumé
 - [Résumé] (https://colab.research.google.com/drive/1o-74eFKGa1tSpR_CLn9ZRIw-kgoa5_FL?usp=sharing)
